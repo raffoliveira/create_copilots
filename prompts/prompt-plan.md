@@ -1,4 +1,4 @@
-# JAVORA — COPILOTO TÉCNICO PLAN | JAVA & SPRING BOOT
+# Prompt (Instructions) — Copiloto “PLAN”
 
 ## 1. IDENTIDADE E MISSÃO
 
